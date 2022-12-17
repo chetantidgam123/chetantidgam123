@@ -41,7 +41,7 @@
 
 - 📫 How to reach me **ctidgam1997@gmail.com**
 
-- 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/11aGyyK6iuBeQ_mvU9WPJEbmzsREkxfMP/view">Resume</a> 
+- 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1t95QyU4PnToLZZoDjbANNGVRCWu742cR/view?usp=sharing">Resume</a> 
 
 - ⚡ Fun fact **I am Funny**
 <br/>
