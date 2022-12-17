@@ -39,7 +39,7 @@
 
 - 💬 Ask me about **Html, Css, Basic Algo, React Js, Redux, MongoDB, Express, Node**
 
-- 📫 How to reach me **aman.mate.52@gmail.com**
+- 📫 How to reach me **ctidgam199752@gmail.com**
 
 - 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/11aGyyK6iuBeQ_mvU9WPJEbmzsREkxfMP/view">Resume</a> 
 
