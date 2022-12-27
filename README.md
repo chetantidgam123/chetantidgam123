@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://github.com/chetantidgam123">
-        <img src="https://komarev.com/ghpvc/?username=aman-109&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan Tidgam" />
+        <img src="https://komarev.com/ghpvc/?username=chetantidgam123&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan Tidgam" />
     </a>
      <a href="https://github.com/chetantidgam123?tab=followers">
         <img src="https://img.shields.io/github/followers/chetantidgam123?label=Followers&style=social" alt="followers-count">
@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at <a target="_blank" rel="noreferrer" href="https://aman-109.github.io/">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a target="_blank" rel="noreferrer" href="https://chetantidgam123.github.io/">Portfolio</a>
 
 - 💬 Ask me about **Html, Css, Basic Algo, React Js, Redux, MongoDB, Express, Node**
 
