@@ -14,7 +14,7 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="center">
-<a align="center" href="https://github.com/chetantidgam123/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=white&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer." /></a>
+<a align="center" href="https://github.com/chetantidgam123"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=white&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer." /></a>
 </p>
 
 <p align="center">
